@@ -38,7 +38,7 @@ public class StudiKasus122 {
             kurang = totalBayar - uangBayar;
             System.out.println("Uang tidak cukup. kurang Rp " +kurang);
         }
-        
+        nad.close();
 
     }
     
