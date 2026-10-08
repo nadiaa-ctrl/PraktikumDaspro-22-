@@ -53,6 +53,6 @@ public class StudiKasus2_22 {
             status =  "Kegiatan kategori lainnya, Dana penghargaan tidak diberikan.";
         }
         System.out.println("Status : " + status);
-        nad.close();
+        
     }
 }
